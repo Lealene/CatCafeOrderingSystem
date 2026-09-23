@@ -1,0 +1,10 @@
+{
+  "description": "An adorable cat cafe ordering system featuring cute animations and interactive buttons for a delightful and seamless user experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
